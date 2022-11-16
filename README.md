@@ -4,8 +4,11 @@
 ゴーストシェーダー
 ![image](https://user-images.githubusercontent.com/21275458/202085453-f5d3ad7e-760f-498d-bc48-1ad6a039c4a5.png)
 
+
 ①マテリアル作成
-![image](https://user-images.githubusercontent.com/21275458/202085695-a7bcfbe1-dec2-401e-8cab-04f20f94b694.png)
+Projectフォルダを右クリック>Create>Material
+![image](https://user-images.githubusercontent.com/21275458/202088147-7bcf5e49-81ca-41f0-a79d-07eb65511e74.png)
+
 
 
 ②インスペクターから「GhostShader」を検索してシェーダーを適用
